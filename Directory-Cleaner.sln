@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directory-Cleaner", "Directory-Sorter\Directory-Cleaner.csproj", "{52746992-2F02-41E3-84BB-E222CB23EFD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directory-Cleaner", "Directory-Cleaner\Directory-Cleaner.csproj", "{52746992-2F02-41E3-84BB-E222CB23EFD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B01B90A5-1D7E-477F-98A2-82D8FEAED4F5}
+		SolutionGuid = {95BD63EE-DBDF-48BD-A825-E92B505EF9F0}
 	EndGlobalSection
 EndGlobal
