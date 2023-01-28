@@ -9,7 +9,7 @@ namespace DirectoryCleaner
 {
     class MainClass
     {
-        public const string version = "1.1.0";
+        public const string version = "1.1.1";
 
         [STAThread]
         static void Main(string[] args)

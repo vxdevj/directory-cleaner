@@ -436,7 +436,7 @@ namespace DirectoryCleaner
                 return false;
             }
 
-            string destinationFilePath = destinationDirectory + $@"\{Path.GetFileName(fileToMove)}";
+            string destinationFilePath = $@"{destinationDirectory}\{Path.GetFileName(fileToMove)}";
 
             if (verbose == true)
             {
